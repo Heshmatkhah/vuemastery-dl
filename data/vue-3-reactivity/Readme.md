@@ -5,3 +5,4 @@
 * [Lesson 03](https://player.vimeo.com/video/392347730?autoplay=1&app_id=122963)
 * [Lesson 04](https://player.vimeo.com/video/400699168?autoplay=1&app_id=122963)
 * [Lesson 05](https://player.vimeo.com/video/397194972?autoplay=1&app_id=122963)
+* [Lesson 06](https://player.vimeo.com/video/397197076?autoplay=1&app_id=122963)
