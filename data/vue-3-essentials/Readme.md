@@ -1,5 +1,5 @@
-# Vue 3 Composition Api
-[View on VueMastery.com](https://vuemastery.com/courses/vue-3-composition-api)
+# Vue 3 Essentials
+[View on VueMastery.com](https://vuemastery.com/courses/vue-3-essentials)
 * [Lesson 01](https://player.vimeo.com/video/364111799?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/364140610?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/365085315?autoplay=1&app_id=122963)
