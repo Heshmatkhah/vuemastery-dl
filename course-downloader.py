@@ -64,7 +64,7 @@ if __name__ == "__main__":
 				if not video_page_link or video_page_link == '' or video_page_link is None:
 					continue
 
-				video_info = get_video_info(video_page_link, language=args.language)
+				video_info = get_video_info(video_page_link, quality=args.quality, language=args.language)
 
 				print(video_info['title'], f": Downloading Video...")
 				video_stream = requests.get(video_info['video'], allow_redirects=True, stream=True, )
