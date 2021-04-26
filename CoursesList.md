@@ -70,10 +70,6 @@
 * [View on VueMastery.com](https://vuemastery.com/courses/intro-to-vue-js)
 * [Readme](./data/intro-to-vue-js/Readme.md)
 
-# Vue Router
-* [View on VueMastery.com](https://vuemastery.com/courses/vue-router)
-* [Readme](./data/vue-router/Readme.md)
-
 # Animating Vue
 * [View on VueMastery.com](https://vuemastery.com/courses/animating-vue)
 * [Readme](./data/animating-vue/Readme.md)

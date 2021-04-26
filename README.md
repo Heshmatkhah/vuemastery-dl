@@ -45,10 +45,19 @@ the subtitle file will contain the subtitle like.
 * Run `node download.js {Video LINK}` in project directory. Also you can set quality of video `node download.js {Video LINK} 720`, Default set to 1080
 * Run `node sitemap.js` to get list of courses
 
-
 # PR
-Please put new video links to the data folder to help others, If you still have access to the videos
+Please put new video links to the data folder to help others, If you still have access to the videos.
 
 ## Videos not yet completely added:
 
-* [Lesson 10 and 11 of **Touring Vue Router**](https://www.vuemastery.com/courses/touring-vue-router/)
+* [**Touring Vue Router**](https://www.vuemastery.com/courses/touring-vue-router/)
+   1. [2021-04-27] Lesson 10: Global and Per-Route Guards
+   2. [2021-05-18] Lesson 11: Lazy Loading Routes
+* [**Real World Testing**](https://www.vuemastery.com/courses/real-world-testing/)
+   1. [2021-05-04] Lesson 2: Setup & Testing like a User
+   2. [2021-05-11] Lesson 3: Mocking Vuex Stores
+* [**Vuex Fundamentals**](https://www.vuemastery.com/courses/vuex-fundamentals/)
+   1. [2021-05-04] Lesson 3: Updating State
+   2. [2021-05-25] Lesson 4: Fetching State
+   3. [2021-06-01] Lesson 5: Error Handling
+   4. [2021-06-08] Lesson 6: Next Steps
