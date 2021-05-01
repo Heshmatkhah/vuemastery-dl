@@ -1,5 +1,8 @@
 # Mastering Vuex
 [View on VueMastery.com](https://vuemastery.com/courses/mastering-vuex)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/297516469?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/299290718?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/296998483?autoplay=1&app_id=122963)

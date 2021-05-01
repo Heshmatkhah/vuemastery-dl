@@ -1,5 +1,8 @@
 # Scaling Vue With Nuxt Js
 [View on VueMastery.com](https://vuemastery.com/courses/scaling-vue-with-nuxt-js)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/311756540?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/314572866?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/316653566?autoplay=1&app_id=122963)

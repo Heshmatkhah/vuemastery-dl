@@ -1,5 +1,8 @@
 # Intro To Vue 3
 [View on VueMastery.com](https://vuemastery.com/courses/intro-to-vue-3)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/429439600?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/430513164?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/430892048?autoplay=1&app_id=122963)

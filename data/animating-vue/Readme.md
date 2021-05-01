@@ -1,5 +1,8 @@
 # Animating Vue
 [View on VueMastery.com](https://vuemastery.com/courses/animating-vue)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/351308397?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/353909159?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/358710484?autoplay=1&app_id=122963)

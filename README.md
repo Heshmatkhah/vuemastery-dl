@@ -8,21 +8,6 @@ You can see [List of existing courses in here](CoursesList.md)
 * first `cd data/ANY_DIRRECTORY` like `cd data/advanced-components`
 * download a directory with `node ../../mirror.js`
 
-## Download all courses
-
-If you want to download all courses, you can use the `downloadAll.sh` script. 
-
-```bash
-# give execution rights to the script
-chmod +x ./downloadAll.sh
-
-# run using node
-./downloadAll.sh
-
-# run using python
-./downloadAll.sh --python
-```
-
 ### Using python script
 The script required **Python 3.6+** and **requests** package.
 you can install it with `pip install requests`
@@ -39,6 +24,21 @@ you can use this options:
 as rate limit policy applied to subtitle files, downloading a subtitle may fail. in this situation,
 the subtitle file will contain the subtitle like.  
 
+
+### Download all courses
+
+If you want to download all courses, you can use the `downloadAll.sh` script. 
+
+```bash
+# give execution rights to the script
+chmod +x ./downloadAll.sh
+
+# run using node
+./downloadAll.sh
+
+# run using python
+./downloadAll.sh --python
+```
 ## Finding video links (for contributors)
 * Open a lesson on the browser
 * Run `document.getElementsByTagName('iframe')[0].src` in the browser's console to get {Video LINK}

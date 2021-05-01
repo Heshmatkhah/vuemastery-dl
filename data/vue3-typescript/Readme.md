@@ -1,5 +1,8 @@
 # Vue3 Typescript
 [View on VueMastery.com](https://vuemastery.com/courses/vue3-typescript)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/467481375?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/473662632?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/473998588?autoplay=1&app_id=122963)

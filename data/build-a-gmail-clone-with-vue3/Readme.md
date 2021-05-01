@@ -1,5 +1,8 @@
 # Build A Gmail Clone With Vue3
 [View on VueMastery.com](https://vuemastery.com/courses/build-a-gmail-clone-with-vue3)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/417686205?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/418119086?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/424719912?autoplay=1&app_id=122963)

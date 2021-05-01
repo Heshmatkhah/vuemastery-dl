@@ -1,5 +1,8 @@
 # Next Level Vue
 [View on VueMastery.com](https://vuemastery.com/courses/next-level-vue)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/299718108?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/297619886?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/298208305?autoplay=1&app_id=122963)

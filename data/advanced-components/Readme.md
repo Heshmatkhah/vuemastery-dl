@@ -1,5 +1,8 @@
 # Advanced Components
 [View on VueMastery.com](https://vuemastery.com/courses/advanced-components)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/263589430?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/264113772?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/276288371?autoplay=1&app_id=122963)

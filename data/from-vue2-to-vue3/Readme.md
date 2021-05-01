@@ -1,5 +1,8 @@
 # From Vue2 To Vue3
 [View on VueMastery.com](https://vuemastery.com/courses/from-vue2-to-vue3)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/424215562?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/425339512?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/427585737?autoplay=1&app_id=122963)

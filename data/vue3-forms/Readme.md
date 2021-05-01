@@ -1,5 +1,8 @@
 # Vue3 Forms
 [View on VueMastery.com](https://vuemastery.com/courses/vue3-forms)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/457363869?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/458419816?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/459058559?autoplay=1&app_id=122963)

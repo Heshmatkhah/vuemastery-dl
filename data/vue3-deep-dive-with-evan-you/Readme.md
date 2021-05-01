@@ -1,5 +1,8 @@
 # Vue3 Deep Dive With Evan You
 [View on VueMastery.com](https://vuemastery.com/courses/vue3-deep-dive-with-evan-you)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/413320671?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/413172106?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/410406205?autoplay=1&app_id=122963)

@@ -1,5 +1,8 @@
 # Unit Testing Vue 3
 [View on VueMastery.com](https://vuemastery.com/courses/unit-testing-vue-3)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/510489703?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/514104358?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/514106269?autoplay=1&app_id=122963)

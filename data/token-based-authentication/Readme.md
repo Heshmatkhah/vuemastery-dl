@@ -1,5 +1,8 @@
 # Token Based Authentication
 [View on VueMastery.com](https://vuemastery.com/courses/token-based-authentication)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/322541550?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/327559707?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/328952884?autoplay=1&app_id=122963)

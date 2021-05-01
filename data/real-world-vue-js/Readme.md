@@ -1,5 +1,8 @@
 # Real World Vue Js
 [View on VueMastery.com](https://vuemastery.com/courses/real-world-vue-js)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/297369661?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/277360353?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/279903602?autoplay=1&app_id=122963)

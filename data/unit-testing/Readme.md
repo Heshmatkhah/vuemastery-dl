@@ -1,5 +1,8 @@
 # Unit Testing
 [View on VueMastery.com](https://vuemastery.com/courses/unit-testing)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/385713441?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/387189765?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/391719920?autoplay=1&app_id=122963)

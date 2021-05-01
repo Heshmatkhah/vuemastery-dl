@@ -13,6 +13,7 @@ if __name__ == "__main__":
 
 				with open(os.path.join(rootdir, dir_name, 'data.txt'), 'r') as link_file, open(os.path.join(rootdir, dir_name, 'Readme.md'), 'w') as readme_file:
 					readme_file.write(f"# {course_name}\n")
-					readme_file.write(f"[View on VueMastery.com](https://vuemastery.com/courses/{dir_name})\n")
+					readme_file.write(f"[View on VueMastery.com](https://vuemastery.com/courses/{dir_name})\n\n")
+					readme_file.write(f"**You should check each course contents in the associated readme files**\n\n")
 					for num, line in enumerate(link_file, start=1):
 						readme_file.write(f"* [Lesson {num:02}]({line.strip()})\n")

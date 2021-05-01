@@ -1,5 +1,8 @@
 # Watch Us Build Trello Clone
 [View on VueMastery.com](https://vuemastery.com/courses/watch-us-build-trello-clone)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/327844370?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/329214344?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/331459804?autoplay=1&app_id=122963)

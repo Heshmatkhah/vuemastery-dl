@@ -1,5 +1,8 @@
 # Vue 3 Reactivity
 [View on VueMastery.com](https://vuemastery.com/courses/vue-3-reactivity)
+
+**You should check each course contents in the associated readme files**
+
 * [Lesson 01](https://player.vimeo.com/video/388752844?autoplay=1&app_id=122963)
 * [Lesson 02](https://player.vimeo.com/video/388759486?autoplay=1&app_id=122963)
 * [Lesson 03](https://player.vimeo.com/video/392347730?autoplay=1&app_id=122963)
